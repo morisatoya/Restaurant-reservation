@@ -1,0 +1,40 @@
+* 				{padding: 5px;
+				margin: 0px;}
+body   			{text-align: center;}
+h2	   			{width: 1240px;
+				border: 1px solid #000000;
+				background: #8FBC8F;
+				margin: 0 auto;}
+table  			{width: 1250px;
+				background: white;
+	 			border: 1px #000000;
+				border-collapse: collapse;
+				margin: auto;}
+th 	   			{border: 1px solid;
+				background: #8FBC8F;}
+td#head 		{text-align: center;
+				background: #8FBC8F;
+				border: 1px solid;}
+td#meisai		{background: #AFEEEE;
+				border: 1px solid;
+				text-align: center;}
+td#meisail		{background: #AFEEEE;
+				border: 1px solid;
+				text-align: left;}
+td#boder 		{text-align: center;
+				border: 1px solid;
+				background: #8FBC8F;}
+p 	   			{width: 500px;
+				text-align: center;}
+div 			{width: 500px;
+				text-align: left;
+				font-weight: bold;
+				color: red;
+				margin: 0 auto;}
+td#sub 			{background: #8FBC8F;
+				text-align: center;}
+p#boder 		{width: 1250px;
+				text-align: center;
+				font-weight: bold;
+				margin: 0 auto;}
+form#sort       {text-align: left;}

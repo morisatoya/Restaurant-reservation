@@ -1,0 +1,23 @@
+body   			{text-align: center;}
+table{text-align:center;nargin:auto;margin: 0 auto;}
+caption{font-size:18pt;color:#009967;}
+tr#data0{background: #E3FFE3;}
+tr#data1{background: #A4FFDB;}
+th{background: #007B66;color: #ECFFF3;}
+td{text-align: left;vertical-align: top;white-space: nowrap;}
+td#outer{padding: 10px;background: #FAFFE3;}
+  #code{width: 40px;text-align: center;}
+  #menu{width: 250px;}
+  #price{width: 60px;text-align: right;padding-right: :5px}
+  #comm{width: 400px;}
+  #ord{width: 100px;text-align: center;}
+  #btn{width: 100px;}
+h1{text-align: center;background: #007B66; color: #ECFFF3;}
+div#type1{width: 120px;border: solid gray 1px;
+	      background: #E3FFE3;color: #007B53;padding: 2px;cursor: pointer;margin-top: 5px;}
+div#type2{width: 120px;border: solid gray 1px;
+	 	  background: #007B53;color: #E3FFE3;padding: 2px;cursor: pointer;margin-top: 5px;}
+p#boder  {width: 1000px;
+		  text-align: center;
+		  font-weight: bold;
+		  margin: 0 auto;}

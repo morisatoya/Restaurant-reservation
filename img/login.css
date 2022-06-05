@@ -1,0 +1,25 @@
+				* 		{padding: 5px;
+						margin: 0px;}
+				body   	{text-align: center;}
+				h2	   	{width: 490px;
+						border: 1px solid #000000;
+						background: #8FBC8F;
+						margin: 0 auto;}
+				table  	{width: 500px;
+						background: white;
+				 		border: 1px #000000;
+						border-collapse: collapse;
+						margin: auto;}
+				th 	   	{border: 1px solid;
+						background: #8FBC8F;}
+				td 	   	{border: 1px solid;
+						text-align: left;}
+				p 	   	{width: 500px;
+						margin: 0 auto;}
+				div 	{width: 500px;
+						text-align: left;
+						font-weight: bold;
+						color: red;
+						margin: 0 auto;}
+				td#sub  {background: #8FBC8F;
+						text-align: center;}

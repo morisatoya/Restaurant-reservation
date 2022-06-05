@@ -1,0 +1,66 @@
+				* 					{padding: 0px;
+									margin: 0px;}
+				body 				{background: lightyellow;
+									text-align: center;}
+				table 				{margin: auto;
+									font-size: 12pt;
+									text-align: left;}
+				tr#type 			{font-weight: bold;
+									color: DarkGreen;
+									height: 3em;
+									vertical-align: bottom;}
+				td#type 			{width: 500px;}
+				td#menu 			{padding-left: 2em;
+									width: 350px;
+									padding-top: 3px;
+									padding-bottom: 2px;
+									border-bottom: dotted DarkGreen 2px;}
+				td#price			{text-align: right;
+									font-style: italic;
+									font-weight: bold;
+									font-size: 14pt;
+									width: 100px;
+									border-bottom: dotted DarkGreen 2px;
+									color: DarkOliveGreen;
+									padding-right: 20px;}
+				td#subMenu			{text-indent: 2em;}
+				div#type 			{background: pink;
+									padding: 5px}
+				div.menu 			{width: 300px;
+									cursor: pointer;
+									font-size: 13pt;
+									color: DarkOliveGreen;}
+				div.menu-no-detail	{width: 300px;
+									font-size: 13pt;
+									color: DarkOliveGreen;}
+				div.exp 			{display: none;
+									width: 300px;
+									padding-left: 1.5em;
+									font-size: 10pt;
+									color: Orchid;}
+				span#link 			{margin-left: 50px;
+									font-size: 12pt;
+									text-decoration: underline;
+									color: RoyalBlue;
+									cursor: pointer;}
+				span#price 			{margin-left: 100px;}
+				td#title 			{font-size: 18pt;
+									color: DarkGreen;
+									font-weight: bold;}
+				#courseMenu 		{width: 400px;
+									vertical-align: top;
+									background: pink;
+									color: DarkGreen;}
+				td#coursePrice 		{text-align: right;
+									font-style: italic;
+									font-weight: bold;
+									font-size: 14pt;
+									width: 100px;
+									color: DarkOliveGreen;
+									padding-right: 20px;
+									background: pink;}
+				div#subMenu 		{font-size: 10pt : color : DarkGreen;}
+				div#courseDetail 	{width: 300px;
+									padding-left: 1.5em;
+									font-size: 10pt;
+									color: Orchid;}

@@ -1,0 +1,23 @@
+
+#sample {
+	display:block;
+	width:100%;
+	height: 100%;
+	background:url(../image/menu-bg.jpg);
+	background-size:cover;
+	background-attachment: fixed;
+	text-align: center;
+}
+
+.sample-box {
+	background:rgba( 0, 0, 0, 0.5 );　/*半透明なボックス*/
+	display:inline-block;
+	padding: 20px;
+	height: auto;
+	width: 60%;
+	margin: 30px auto;
+	text-align: center;
+}
+.sample-box p {
+	color: #fff;
+}

@@ -1,0 +1,12 @@
+
+.parallax-bg {
+  background: linear-gradient(25deg, rgba(255, 0, 0, 0.3), rgba(0, 0, 0, 0.6)) , url('../img/bass.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.scrollbox {
+  background-color: #111;
+}
